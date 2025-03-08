@@ -1,15 +1,6 @@
-(Due to technical issues, the search service is temporarily unavailable.)
 
-Here’s a polished **GitHub README description** for your C project, focused on explaining the purpose, setup, and usage without exposing the code:
 
----
-
-# Array Operations Manager - A Menu-Driven C Program  
-**Dynamic 1D Array Manipulation Tool**  
-
----
-
-## 📌 Overview  
+📌 Overview  
 This project demonstrates efficient array management in C, allowing users to dynamically **insert** and **delete** elements at the **beginning**, **end**, or **specific positions** of a 1D array. Designed for educational and practical use, it emphasizes:  
 - **Memory management** (dynamic reallocation)  
 - **User-friendly CLI** (menu-driven interface)  
